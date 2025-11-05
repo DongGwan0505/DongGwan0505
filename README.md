@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="mailto:dong123649@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-dong123649%40gmail.com-red?logo=gmail"></a>
-  <a href="[https://www.notion.so/29aff0a545a080cf88e0dec6aa05d9a0?pvs=21](https://paper-limburger-4ba.notion.site/Introduction_ver2-29bff0a545a08062a30fc0311cd1c358?pvs=74)"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Notion-black?logo=notion"></a>
+  <a href="https://paper-limburger-4ba.notion.site/Introduction_ver2-29bff0a545a08062a30fc0311cd1c358?pvs=74"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Notion-black?logo=notion"></a>
 </p>
 
 ---
